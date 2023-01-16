@@ -8,3 +8,5 @@ http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b192800
 https://www.30a-tv.com/InvPit.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music
 https://30a-tv.com/music.m3u8
+
+9f40a10ddbf3d248e5238d089ca6004721683211
