@@ -10,3 +10,6 @@ https://www.30a-tv.com/InvPit.m3u8
 https://30a-tv.com/music.m3u8
 
 9f40a10ddbf3d248e5238d089ca6004721683211
+
+#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="CA: ABC TESYO SPARK HD" tvg-logo="http://live.phenixiptv.com:8080/images/M93xvYxi2uZNKkK0Lijik0rUt8A8pfM5PLHOw-La3mKHtZaT-lZ58aGi-wWUDFAN_UvZ7-JJgvXwnN_iosxYQA.png" group-title="Canada",CA: ABC SPARK HD
+http://955618257790260958.nicene.xyz:80/play/vi06171/3798764/260958.ts
