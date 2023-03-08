@@ -1,17 +1,8 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" group-title="UNIMAS 1" tvg-logo="https://logodix.com/logo/1860134.png" ,unimas 1
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
-
-
-'#EXTINF:-1 tvg-id="DIGITAL 15" tvg-name="digital 15 RD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Digitalquince2018.png" group-'title="Dominican Republic",digital 15 RD
-'http://iptvtree.net:8080/live/0b8e414f/d21fe22552/68859.m3u8
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Boston HQ (US)" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO",Telemundo Boston HQ (US)
 http://hidra.live:80/live/msqbuynu/C55qy6Ihb6/35089.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA: Telemundo 60 San Antonio KVDA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b6fb1669aed8149db22987c4372f5847.png" group-title="TELEMUNDO",LA: Telemundo 60 San Antonio KVDA TV
 http://iptvtree.net:8080/live/0b8e414f/d21fe22552/3120.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA: Telemundo Atlantic City New Jersey WWSI TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e1c87223c9e795955aaa4e9d0a11d4a7.png" group-title="TELEMUNDO",LA: Telemundo Atlantic City New Jersey WWSI TV
@@ -1849,9 +1840,6 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wipr" tvg-logo="" group-title="Puerto Rico",Wipr
 https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
-
-'''''ADULTO XXXX
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: 4K EVILANGEL CUM4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: 4K EVILANGEL CUM4K
 http://iptvtree.net:8080/live/0b8e414f/d21fe22552/296695.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: 4K EVILANGEL CUSTOMS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: 4K EVILANGEL CUSTOMS
@@ -2277,6 +2265,3 @@ http://iptvtree.net:8080/live/0b8e414f/d21fe22552/285213.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XY Plus FHD +3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: XY Plus FHD +3
 http://iptvtree.net:8080/live/0b8e414f/d21fe22552/285214.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Щёлк" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Щёлк
-
-
-
