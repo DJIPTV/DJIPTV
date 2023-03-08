@@ -35,13 +35,8 @@ http://iptvtree.net:8080/live/0b8e414f/d21fe22552/198326.m3u8
 http://iptvtree.net:8080/live/0b8e414f/d21fe22552/296743.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA: Telemundo Tucson Arizona KHRR TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/443faee72dfb56f73eabedd933fdb9d8.png" group-title="TELEMUNDO",LA: Telemundo Tucson Arizona KHRR TV
 http://iptvtree.net:8080/live/0b8e414f/d21fe22552/3122.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DO: Digital 15" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/89d18a0a0a2d339982af1fd652b3b892.png" group-title="Dominican Republic",DO: Digital 15
 http://iptvtree.net:8080/live/0b8e414f/d21fe22552/68859.m3u8
-
 #EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-name="A Son de Salsa (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Nv8SAJq.png" group-title="Dominican Republic",A Son de Salsa (720p) [Not 24/7]
 https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
 #EXTINF:-1 tvg-id="AcentoTV.do" tvg-name="Acento TV [Not 24/7]" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="Dominican Republic",Acento TV [Not 24/7]
